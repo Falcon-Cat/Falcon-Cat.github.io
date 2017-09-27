@@ -3,13 +3,29 @@ body {
 	border-width: thin;
 	border-style: dashed;
 	border-color: red;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: Helvetica, sans-serif;
 }
 
 h1 {
 	background-color: #221E1D;
 	color: #ECEAE0;
 	text-align: center;
+	font-size: 40px;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	font-size: 24px;
+}
+
+p {
+	text-align: left;
+	font-size: 22px;
+}
+
+ul {
+	list-style-type: dot;
 }
 
 img {
